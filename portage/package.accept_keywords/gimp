@@ -1,0 +1,3 @@
+media-gfx/gimp **
+media-libs/babl ** ~amd64
+media-libs/gegl ** ~amd64
