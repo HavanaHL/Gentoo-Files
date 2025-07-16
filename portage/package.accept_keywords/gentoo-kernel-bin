@@ -1,0 +1,2 @@
+=sys-kernel/gentoo-kernel-bin-6.15.4::gentoo ~amd64
+=virtual/dist-kernel-6.15.4::gentoo ~amd64
