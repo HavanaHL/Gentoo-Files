@@ -5,3 +5,5 @@
 =dev-python/userpath-1.9.2 ~amd64
 # required by dev-python/pipx (argument)
 =dev-python/pipx-1.7.1 ~amd64
+# required by =app-misc/yazi-25.5.31::guru (argument)
+=app-misc/yazi-25.5.31 ~amd64
