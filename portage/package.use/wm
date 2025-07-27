@@ -1,0 +1,3 @@
+gui-apps/waybar mpris pulseaudio libinput experimental wifi tray network logind 
+gui-wm/swayfx X filecaps tray 
+gui-wm/wayfire X dbus gles3 

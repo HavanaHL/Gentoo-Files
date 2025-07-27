@@ -1,0 +1,6 @@
+x11-misc/copyq ** ~amd64
+media-fonts/ttf-ancient-fonts ~amd64
+media-fonts/nerdfonts ~amd64
+gui-apps/kanshi ~amd64
+dev-libs/libscfg ~amd64 #Kanshi Depedency
+gui-apps/wf-recorder ~amd64

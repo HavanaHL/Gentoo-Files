@@ -1,1 +1,2 @@
-gui-libs/gtk X wayland introspection
+gui-libs/gtk instrospection X wayland
+x11-libs/gtk+ instrospection broadway wayland X 

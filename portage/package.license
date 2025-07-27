@@ -1,7 +1,0 @@
-# Accepting any license that permits redistribution
-sys-kernel/linux-firmware @BINARY-REDISTRIBUTABLE
-# Accepting the license for linux-firmware
-sys-kernel/linux-firmware linux-fw-redistributable
-# Steam
-games-util/steam-launcher ValveSteamLicense
-

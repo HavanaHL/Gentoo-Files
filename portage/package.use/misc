@@ -1,0 +1,5 @@
+x11-misc/copyq X notification test
+x11-base/xorg-server xvfb
+dev-libs/weston screen-sharing  headless
+net-im/discord seccomp appindicator wayland 
+gui-apps/swaybg gdk-pixbuf

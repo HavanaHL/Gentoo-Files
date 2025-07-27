@@ -1,0 +1,2 @@
+net-misc/networkmanager concheck introspection modemmanager
+net-wireless/wpa_supplicant dbus

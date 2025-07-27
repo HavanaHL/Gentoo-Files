@@ -1,2 +1,2 @@
-media-libs/mesa ~amd64
-
+media-libs/mesa ** ~amd64 
+dev-util/mesa_clc ** ~amd64
