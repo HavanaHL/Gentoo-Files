@@ -2,5 +2,12 @@ x11-misc/copyq ** ~amd64
 media-fonts/ttf-ancient-fonts ~amd64
 media-fonts/nerdfonts ~amd64
 gui-apps/kanshi ~amd64
-dev-libs/libscfg ~amd64 #Kanshi Depedency
+	dev-libs/libscfg ~amd64 #Kanshi Depedency
 gui-apps/wf-recorder ~amd64
+app-misc/afetch ~amd64
+app-misc/pfetch ~amd64 
+net-im/telegram-desktop-bin ~amd64
+app-misc/yazi ~amd64
+gui-apps/walker ~amd64
+	gui-libs/gtk4-layer-shell ~amd64
+games-misc/cbonsai ~amd64

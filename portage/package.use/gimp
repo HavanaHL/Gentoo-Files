@@ -1,0 +1,4 @@
+media-gfx/gimp vector-icons X jpeg2k jpegxl webp wayland
+# Dependencias abaixo
+media-libs/babl introspection
+media-libs/gegl introspection

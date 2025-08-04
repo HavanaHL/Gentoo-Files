@@ -1,7 +1,9 @@
-gui-libs/xdg-desktop-portal-hyprland **Ã~amd64
+gui-libs/xdg-desktop-portal-hyprland **ï¿½~amd64
 app-misc/nwg-look ** ~amd64
 x11-apps/xcur2png ~amd64
 gui-apps/satty ** ~amd64
 gui-apps/hyprpaper ** ~amd64
 gui-wm/swayfx ~amd64
 gui-libs/scenefx ~amd64
+gui-wm/labwc ~amd64
+gui-libs/libsfdo ~amd64

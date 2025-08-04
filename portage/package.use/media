@@ -1,0 +1,3 @@
+media-sound/audacious gtk -qt6
+media-plugins/audacious-plugins alsa X aac ffmpeg flac libnotify pipewire -qt6 
+sys-libs/zlib minizip
