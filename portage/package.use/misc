@@ -5,3 +5,5 @@ net-im/discord seccomp appindicator wayland
 gui-apps/swaybg gdk-pixbuf
 gui-apps/qt6ct qt6
 net-im/telegram-desktop X fonts libdispatch 
+#dev-libs/libtasn1 abi_x86_32
+#net-libs/gnutls -abi_x86_32
