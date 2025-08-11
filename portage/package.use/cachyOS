@@ -1,0 +1,1 @@
+sys-kernel/cachyos-sources llvm-lto-thin bore msilvermont hz_ticks_500 tickrate_perodic o3 hugepage_madvise -auto-cpu-optimization  -hugepage_always -hz_ticks_1000  -tickrate_full  ABI_X86="(64)"  

@@ -1,5 +1,5 @@
 gui-apps/waybar mpris pulseaudio libinput experimental wifi tray network logind 
 gui-wm/wayfire X dbus gles3 
 #x11-wm/jwm iconv jpeg nls pango png svg truetype
-x11-wm/fluxbox 1mlib slit systray toolbar truetype nls bidi 
-gui-wm/labwc X icons nls svg static-analyzer
+#x11-wm/fluxbox 1mlib slit systray toolbar truetype nls bidi 
+#gui-wm/labwc X icons nls svg static-analyzer

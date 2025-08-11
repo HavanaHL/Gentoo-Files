@@ -5,5 +5,4 @@ gui-apps/satty ** ~amd64
 gui-apps/hyprpaper ** ~amd64
 gui-wm/swayfx ~amd64
 gui-libs/scenefx ~amd64
-gui-wm/labwc ~amd64
 gui-libs/libsfdo ~amd64

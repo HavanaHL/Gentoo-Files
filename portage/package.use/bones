@@ -1,1 +1,2 @@
 gui-libs/wlroots libinput session drm x11-backend
+dev-util/perf libpfm
