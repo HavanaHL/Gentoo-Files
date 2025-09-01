@@ -1,0 +1,2 @@
+app-emulation/wine-proton wayland gecko mono fontconfig abi_x86_32
+media-libs/vulkan-loader abi_x86_32

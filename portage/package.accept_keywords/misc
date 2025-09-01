@@ -13,3 +13,7 @@ gui-apps/walker ~amd64
 games-misc/cbonsai ~amd64
 gui-apps/fuzzel ~amd64
 x11-themes/kvantum ~amd64
+dev-python/pipx
+	dev-python/userpath ~amd64
+net-analyzer/gping ~amd64
+app-misc/zellij ~amd64

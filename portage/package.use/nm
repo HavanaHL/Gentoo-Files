@@ -1,2 +1,3 @@
-net-misc/networkmanager concheck introspection modemmanager
+#net-misc/networkmanager concheck introspection modemmanager
 net-wireless/wpa_supplicant dbus
+net-wireless/iwd client monitor -wired 
